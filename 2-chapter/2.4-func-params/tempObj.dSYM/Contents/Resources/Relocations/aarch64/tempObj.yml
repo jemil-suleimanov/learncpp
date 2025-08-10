@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jemil/webdev/learning/learncpp/learncpp/2-chapter/2.4-func-params/tempObj'
+relocations:     []
+...

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jemil/webdev/learning/learncpp/learncpp/1.9-operations/main'
+relocations:     []
+...
