@@ -1,0 +1,47 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Compiled binaries
+*.out
+*/main
+*/PrintStandard
+*/getValueFromUser
+*/returnFive
+*/doubleNumber
+*/tempObj
+*/forward-declaration
+*/program
+*/calc
+*/tower
+*/binary
+*/name
+*/make
+# ... (You might need to add more specific executable names if they don't have .out extension)
+# The script already filters for files without extensions in chapter directories,
+# but gitignore is good for preventing untracked files showing up in status.
+
+# Debugging symbols
+*.dSYM/
+# Or more specifically:
+# 1-chapter/*/main.dSYM/
+# 1-chapter/*/PrintStandard.dSYM/
+# etc.
+
+# VS Code settings
+.vscode/
+# You might want to keep some .vscode files if shared, but usually not.
+# The current script ignores .vscode/ files during processing too.
+
+# IntelliJ/CLion files
+.idea/
+# If you are using CLion, you might want to keep .idea/workspace.xml
+# out of git and just track .idea/misc.xml for project settings.
+# For this exercise, it's safer to ignore the whole thing.
+
+# This script's generated file
+file_creation_times.txt
