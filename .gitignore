@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Allow directories so source files inside are visible
+!*/
+
+# Keep the ignore file itself
+!.gitignore
+
+# Allow C/C++ source and headers
+!*.c
+!*.cc
+!*.cpp
+!*.cxx
+!*.h
+!*.hh
+!*.hpp
+!*.hxx
